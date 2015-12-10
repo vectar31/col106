@@ -1,0 +1,62 @@
+addPage stack_datastructure
+
+queryFindPagesWhichContainWord delhi
+
+queryFindPagesWhichContainWord stack
+query
+FindPagesWhichContainWord wikipedia
+
+queryFindPositionsOfWordInAPage stack stackoverflow
+
+queryFindPagesWhichContainWord allain
+
+addPage stack_cprogramming
+
+queryFindPagesWhichContainWord allain
+
+queryFindPagesWhichContainWord C
+
+queryFindPagesWhichContainWord C++
+
+addPage stack_oracle
+
+queryFindPagesWhichContainWord jdk
+
+addPage stackoverflow
+
+queryFindPositionsOfWordInAPage stack stackoverflow
+queryFindPagesWhichContainWord function
+
+addPage stacklighting
+
+addPage stackmagazine
+
+queryFindPagesWhichContainWord magazines
+
+addPage stacks_and_queues
+
+addPage cmu_stack
+
+addPage studytonight
+
+addPage auckland_stack
+
+addPage geeks_quiz
+
+queryFindPagesWhichContainAllWords data structure first
+
+queryFindPagesWhichContainAnyOfTheseWords stack data structure first
+
+queryFindPagesWhichContainAnyOfTheseWords adsdasfa
+queryFindPagesWhichContainAllWords data structure first affads
+queryFindPagesWhichContainPhrase data structure
+
+queryFindPagesWhichContainPhrase data structure falafal
+queryFindPagesWhichContainPhrase array random
+queryFindPositionsOfWordInAPage stack stack_datastructure_wiki
+
+queryFindPagesWhichContainWord applications
+
+queryFindPagesWhichContainWord stack
+addPage stack_datastructure_wiki
+queryFindPositionsOfWordInAPage stack stack_datastructure_wiki

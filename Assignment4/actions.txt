@@ -1,0 +1,36 @@
+addPage stack_datastructure
+addPage stackpp
+
+queryFindPagesWhichContainWord delhi
+
+queryFindPagesWhichContainWord stack
+queryFindPagesWhichContainWord wikipedia
+
+queryFindPositionsOfWordInAPage stack stackoverflow
+
+queryFindPositionsOfWordInAPage stack stack_datastructure
+queryFindPositionsOfWordInAPage longest stack_datastructure
+queryFindPositionsOfWordInAPage top stack_datastructure
+queryFindPagesWhichContainWord allain
+
+addPage stack_cprogramming
+
+queryFindPagesWhichContainWord allain
+
+queryFindPagesWhichContainWord C
+
+queryFindPagesWhichContainWord C++
+
+addPage stack_oracle
+
+queryFindPagesWhichContainWord jdk
+
+addPage stackoverflow
+
+queryFindPagesWhichContainWord function
+
+addPage stacklighting
+
+addPage stackmagazine
+
+queryFindPagesWhichContainWord magazines
